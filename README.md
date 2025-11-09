@@ -5,7 +5,7 @@
 ### A Passionate Engineer from Chennai, India 🇮🇳
 
 [![Website](https://img.shields.io/badge/Website-sites.google.com/view/harshag-blue?style=for-the-badge)](https://sites.google.com/view/harshag)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-agarwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshxagarwal)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/StarkAg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=StarkAg&color=blueviolet&style=for-the-badge)
@@ -276,7 +276,7 @@ Smart India Hackathon 2024 submission - Modern responsive webpage with clean UI/
 
 [![Website](https://img.shields.io/badge/Website-sites.google.com/view/harshag-blue?style=for-the-badge)](https://sites.google.com/view/harshag)
 [![GitHub](https://img.shields.io/badge/GitHub-@StarkAg-black?style=for-the-badge&logo=github)](https://github.com/StarkAg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-agarwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshxagarwal)
 
 </div>
 
