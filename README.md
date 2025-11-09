@@ -1,0 +1,311 @@
+<div align="center">
+
+# 👋 Hi, I'm Harsh Agarwal
+
+### A Passionate Engineer from Chennai, India 🇮🇳
+
+[![Website](https://img.shields.io/badge/Website-sites.google.com/view/harshag-blue?style=for-the-badge)](https://sites.google.com/view/harshag)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-agarwal)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/StarkAg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=StarkAg&color=blueviolet&style=for-the-badge)
+
+---
+
+</div>
+
+## 🚀 About Me
+
+I'm a passionate engineer and full-stack developer with expertise in building modern web applications, machine learning solutions, blockchain applications, and IoT systems. I love creating innovative solutions that solve real-world problems.
+
+- 🔭 I'm currently working on **PrintX** - A professional printing services platform
+- 🌱 I'm learning **Advanced ML/AI** and **Blockchain Development**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development**, **Machine Learning**, **Blockchain**, or **IoT**
+- 📫 How to reach me: [Website](https://sites.google.com/view/harshag)
+- ⚡ Fun fact: I love building projects that combine multiple technologies!
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+### Tools & Technologies
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarkAg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=StarkAg&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarkAg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🏆 Full-Stack Applications
+
+#### [PrintX](https://github.com/StarkAg/PrintX) - Professional Printing Services Platform
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+A comprehensive printing services platform with file upload, order management, and UPI payment integration. Features real-time order tracking, admin dashboard, and Google Drive integration.
+
+**Key Features:** File upload, order management, UPI payments, admin dashboard, real-time updates
+
+---
+
+#### [LendX](https://github.com/StarkAg/LendX) - Multi-User Loan Tracking Application
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+A loan tracking application with compound interest calculations, multi-user support, and comprehensive financial management features.
+
+**Key Features:** Compound interest calculations, multi-user support, financial tracking
+
+---
+
+#### [RFID Attendance System](https://github.com/StarkAg/RFID_Attendance_New) - Real-Time Attendance Dashboard
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+Modern RFID attendance dashboard with real-time updates, search functionality, dark/light theme support, and CSV export capabilities.
+
+**Key Features:** Real-time updates, search & filter, dark/light theme, CSV export, sound notifications
+
+---
+
+### 🤖 Machine Learning & AI
+
+#### [Resume Scorer](https://github.com/StarkAg/Resume_Scorer) - Automated Resume Matching System
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+An automated resume matching system that evaluates resumes against job descriptions using TF-IDF, BERT embeddings, SVM, and Naive Bayes classifiers.
+
+**Key Features:** Resume parsing, ML-based scoring, multiple algorithms, section extraction
+
+---
+
+#### [OCRP](https://github.com/StarkAg/OCRP) - CAPTCHA Recognition Model
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+Deep learning model for CAPTCHA recognition using TensorFlow, Keras, and OpenCV. Implements character recognition and decoding for CAPTCHA images.
+
+**Key Features:** Deep learning, character recognition, CAPTCHA decoding
+
+---
+
+#### [PersonaX ML Website](https://github.com/StarkAg/personax-ml-website) - E-commerce Customer Persona Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+E-commerce customer persona development website with RFM analysis and K-Means clustering dashboard for customer segmentation.
+
+**Key Features:** RFM analysis, K-Means clustering, customer segmentation, interactive dashboard
+
+---
+
+#### [GreenPulseX](https://github.com/StarkAg/sih-2025-greenpulseX) - AI-Driven Yield Predictions
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+AI-driven yield predictions for small & marginal farmers. Full-stack agricultural platform with predictive analytics.
+
+**Key Features:** Yield prediction, agricultural analytics, full-stack platform
+
+---
+
+### ⛓️ Blockchain & Web3
+
+#### [GDrive3.0](https://github.com/StarkAg/GDrive3.0) - Decentralized Image Upload & Sharing
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+
+Decentralized image upload and sharing platform on blockchain. Uses Solidity smart contracts, React frontend, and IPFS for decentralized storage.
+
+**Key Features:** Blockchain storage, IPFS integration, access control, ownership management
+
+---
+
+#### [Genesis 1.0 GDrive3](https://github.com/StarkAg/genesis-1.0-gdrive3) - Decentralized File Storage
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+Decentralized file storage on blockchain using IPFS and Ethereum smart contracts for secure and immutable file storage.
+
+**Key Features:** Decentralized storage, Ethereum integration, IPFS, smart contracts
+
+---
+
+#### [SRM Badge Demo](https://github.com/StarkAg/srm-badge-demo) - ERC-721 NFT Badge System
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+ERC-721 NFT badge system deployed on Polygon Amoy testnet. Features public claim functionality and admin minting capabilities.
+
+**Key Features:** ERC-721 standard, Polygon deployment, public claim, admin minting
+
+---
+
+### 📡 IoT & Hardware
+
+#### [Vigil Sense Dashboard](https://github.com/StarkAg/vigil-sense-dashboard) - Field Patrolling & Hazard Detection Bot
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+Smart field patrolling & hazard detection bot with real-time monitoring dashboard, live camera feed, sensor data visualization, and interactive charts.
+
+**Key Features:** Real-time monitoring, camera feed, sensor visualization, hazard detection
+
+---
+
+#### [Sensors Project](https://github.com/StarkAg/Sensors-Project) - ESP8266 Sensor Dashboard
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+ESP8266 Sensor Dashboard with real-time monitoring, alert system, and responsive web interface for IoT sensor data.
+
+**Key Features:** Real-time monitoring, alert system, responsive interface, ESP8266 integration
+
+---
+
+### 🎨 Web Development & UI/UX
+
+#### [Hamon India](https://github.com/StarkAg/Hamon-India) - Full-Stack Web Application
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+Full-stack web application built with Next.js, TypeScript, and Tailwind CSS. Features modern UI components, responsive design, and video support.
+
+**Key Features:** Modern UI, responsive design, video support, TypeScript
+
+---
+
+#### [IEEE CS SRM v2](https://github.com/StarkAg/ieee-cs-srm-v2) - Student Chapter Website
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+Full-stack web application for IEEE Computer Society SRM student chapter with client and server components.
+
+**Key Features:** Full-stack application, student chapter management, modern design
+
+---
+
+#### [Magic Portfolio](https://github.com/StarkAg/magic-portfolio-for-next-js) - Portfolio Template
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+Professional portfolio template built with Next.js and Once UI. Features modern design, responsive layout, and easy customization.
+
+**Key Features:** Portfolio template, modern design, responsive layout, easy customization
+
+---
+
+#### [My Portfolio](https://github.com/StarkAg/MyPortfolio) - Personal Portfolio Website
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+Personal portfolio website showcasing projects and skills. Built with HTML, CSS, and JavaScript featuring responsive design and modern UI.
+
+**Key Features:** Responsive design, modern UI, project showcase
+
+---
+
+### 🏅 Hackathon Projects
+
+#### [Ultron 8.0 - CodeRaptors](https://github.com/StarkAg/ultron-8.0-coderaptors)
+Hackathon submission by CodeRaptors team for Ultron 8.0 hackathon.
+
+---
+
+#### [SIH 2025 - GreenPulseX](https://github.com/StarkAg/sih-2025-greenpulseX)
+Smart India Hackathon 2025 submission - AI-driven yield predictions for farmers.
+
+---
+
+#### [SIH 2024 - GARV](https://github.com/StarkAg/sih-2024-garv)
+Smart India Hackathon 2024 submission - Modern responsive webpage with clean UI/UX design.
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StarkAg&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=StarkAg&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-sites.google.com/view/harshag-blue?style=for-the-badge)](https://sites.google.com/view/harshag)
+[![GitHub](https://img.shields.io/badge/GitHub-@StarkAg-black?style=for-the-badge&logo=github)](https://github.com/StarkAg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-agarwal)
+
+</div>
+
+---
+
+## 💡 Fun Facts
+
+- 🎯 I love building projects that solve real-world problems
+- 🚀 Always learning new technologies and frameworks
+- 💻 Passionate about open-source development
+- 🌱 Interested in AI/ML and Blockchain technologies
+- 📱 Love working on IoT and hardware projects
+
+---
+
+<div align="center">
+
+### ⭐ Star some of my repositories if you find them interesting!
+
+**Thanks for visiting! 🎉**
+
+![Snake animation](https://github.com/StarkAg/StarkAg/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
