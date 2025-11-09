@@ -270,13 +270,6 @@ Smart India Hackathon 2024 submission - Modern responsive webpage with clean UI/
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -305,7 +298,7 @@ Smart India Hackathon 2024 submission - Modern responsive webpage with clean UI/
 
 **Thanks for visiting! 🎉**
 
-![Snake animation](https://github.com/StarkAg/StarkAg/blob/output/github-contribution-grid-snake.svg)
+**Made with ❤️ by Harsh Agarwal**
 
 </div>
 
