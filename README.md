@@ -53,7 +53,7 @@ I'm a passionate engineer and full-stack developer with expertise in building mo
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarkAg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=StarkAg&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=StarkAg&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarkAg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
