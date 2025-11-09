@@ -190,6 +190,16 @@ ESP8266 Sensor Dashboard with real-time monitoring, alert system, and responsive
 
 ---
 
+#### [PIR_Home](https://github.com/StarkAg/PIR_Home) - PIR Motion Sensor with Stadium Wave LED Effect
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+Home automation project that detects motion using a PIR sensor and creates a mesmerizing stadium wave effect with LEDs. Perfect for home security, room lighting, or visual displays.
+
+**Key Features:** Motion detection, stadium wave LED effect, state machine architecture, Arduino CLI support, configurable timing
+
+---
+
 ### 🎨 Web Development & UI/UX
 
 #### [Hamon India](https://github.com/StarkAg/Hamon-India) - Full-Stack Web Application
