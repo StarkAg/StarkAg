@@ -237,17 +237,6 @@ Personal portfolio website showcasing projects and skills. Built with HTML, CSS,
 
 ---
 
-#### [Eww-s-Folio](https://github.com/StarkAg/Eww-s-Folio) - Portfolio Website
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-Modern portfolio website with elegant design and smooth animations.
-
-**Key Features:** Modern design, animations, responsive layout
-
----
-
 #### [GradeX](https://github.com/StarkAg/GradeX) - Grade Management System
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
