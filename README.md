@@ -316,9 +316,13 @@ Smart India Hackathon 2024 submission - Modern responsive webpage with clean UI/
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=StarkAg&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" width="100%"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=StarkAg&theme=radical&column=7" alt="trophy" />
+</a>
 
 </div>
+
+<!-- Note: If trophies don't appear, the service may be temporarily down. They will appear automatically when the service is restored. -->
 
 ---
 
