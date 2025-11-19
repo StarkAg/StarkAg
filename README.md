@@ -18,7 +18,7 @@
 
 I'm a passionate engineer and full-stack developer with expertise in building modern web applications, machine learning solutions, blockchain applications, and IoT systems. I love creating innovative solutions that solve real-world problems.
 
-- 🔭 I'm currently working on **PrintX** - A professional printing services platform
+- 🔭 I'm currently working on **PersonaX-DeepVision-2025** - ML-powered customer persona development platform
 - 🌱 I'm learning **Advanced ML/AI** and **Blockchain Development**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development**, **Machine Learning**, **Blockchain**, or **IoT**
@@ -117,55 +117,49 @@ Deep learning model for CAPTCHA recognition using TensorFlow, Keras, and OpenCV.
 
 ---
 
-#### [PersonaX ML Website](https://github.com/StarkAg/personax-ml-website) - E-commerce Customer Persona Development
+#### [PersonaX-DeepVision-2025](https://github.com/StarkAg/PersonaX-DeepVision-2025) - E-commerce Customer Persona Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
-E-commerce customer persona development website with RFM analysis and K-Means clustering dashboard for customer segmentation.
+E-commerce customer persona development website with RFM analysis, K-Means clustering, and PCA visualization. Features interactive dashboard with Plotly charts for customer segmentation and analytics.
 
-**Key Features:** RFM analysis, K-Means clustering, customer segmentation, interactive dashboard
+**Key Features:** RFM analysis, K-Means clustering, PCA visualization, customer segmentation, interactive dashboard, Plotly charts
 
 ---
 
-#### [GreenPulseX](https://github.com/StarkAg/sih-2025-greenpulseX) - AI-Driven Yield Predictions
+#### [GreenpulseX-SIH-2025](https://github.com/StarkAg/GreenpulseX-SIH-2025) - AI-Driven Yield Predictions
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-AI-driven yield predictions for small & marginal farmers. Full-stack agricultural platform with predictive analytics.
+AI-driven yield predictions for small & marginal farmers. Full-stack agricultural platform with predictive analytics and GitHub Actions CI/CD.
 
-**Key Features:** Yield prediction, agricultural analytics, full-stack platform
+**Key Features:** Yield prediction, agricultural analytics, full-stack platform, CI/CD workflows
 
 ---
 
 ### ⛓️ Blockchain & Web3
 
-#### [GDrive3.0](https://github.com/StarkAg/GDrive3.0) - Decentralized Image Upload & Sharing
+#### [GDrive3.0-Genesis-1.0](https://github.com/StarkAg/GDrive3.0-Genesis-1.0) - Decentralized File Storage on Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 
-Decentralized image upload and sharing platform on blockchain. Uses Solidity smart contracts, React frontend, and IPFS for decentralized storage.
+Decentralized file storage and sharing platform on blockchain. Uses Solidity smart contracts, React frontend, and IPFS for decentralized storage. Built for Genesis 1.0 Hackathon.
 
-**Key Features:** Blockchain storage, IPFS integration, access control, ownership management
-
----
-
-#### [Genesis 1.0 GDrive3](https://github.com/StarkAg/genesis-1.0-gdrive3) - Decentralized File Storage
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-Decentralized file storage on blockchain using IPFS and Ethereum smart contracts for secure and immutable file storage.
-
-**Key Features:** Decentralized storage, Ethereum integration, IPFS, smart contracts
+**Key Features:** Blockchain storage, IPFS integration, access control, ownership management, smart contracts, React frontend
 
 ---
 
-#### [SRM Badge Demo](https://github.com/StarkAg/srm-badge-demo) - ERC-721 NFT Badge System
+#### [NFT-Badge](https://github.com/StarkAg/NFT-Badge) - ERC-721 NFT Badge System
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-ERC-721 NFT badge system deployed on Polygon Amoy testnet. Features public claim functionality and admin minting capabilities.
+ERC-721 NFT badge system deployed on Polygon Amoy testnet. Features public claim functionality, admin minting capabilities, and contract interaction scripts.
 
-**Key Features:** ERC-721 standard, Polygon deployment, public claim, admin minting
+**Key Features:** ERC-721 standard, Polygon deployment, public claim, admin minting, contract scripts
 
 ---
 
@@ -190,7 +184,7 @@ ESP8266 Sensor Dashboard with real-time monitoring, alert system, and responsive
 
 ---
 
-#### [PIR_Home](https://github.com/StarkAg/PIR_Home) - PIR Motion Sensor with Stadium Wave LED Effect
+#### [PIR-Home](https://github.com/StarkAg/PIR-Home) - PIR Motion Sensor with Stadium Wave LED Effect
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
@@ -213,7 +207,7 @@ Full-stack web application built with Next.js, TypeScript, and Tailwind CSS. Fea
 
 ---
 
-#### [IEEE CS SRM v2](https://github.com/StarkAg/ieee-cs-srm-v2) - Student Chapter Website
+#### [IEEE-CS-SRM-V2](https://github.com/StarkAg/IEEE-CS-SRM-V2) - Student Chapter Website
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 Full-stack web application for IEEE Computer Society SRM student chapter with client and server components.
@@ -243,20 +237,79 @@ Personal portfolio website showcasing projects and skills. Built with HTML, CSS,
 
 ---
 
+#### [Eww-s-Folio](https://github.com/StarkAg/Eww-s-Folio) - Portfolio Website
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+Modern portfolio website with elegant design and smooth animations.
+
+**Key Features:** Modern design, animations, responsive layout
+
+---
+
+#### [GradeX](https://github.com/StarkAg/GradeX) - Grade Management System
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+Grade management system with admin dashboard and student interface for managing academic records.
+
+**Key Features:** Grade management, admin dashboard, student interface
+
+---
+
+#### [Hardware-Shop](https://github.com/StarkAg/Hardware-Shop) - E-commerce Platform
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+E-commerce platform for hardware products with shopping cart and order management.
+
+**Key Features:** E-commerce, shopping cart, order management
+
+---
+
+#### [Qrcode_Generator](https://github.com/StarkAg/Qrcode_Generator) - QR Code Generator
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+Python-based QR code generator with customizable options.
+
+**Key Features:** QR code generation, customizable options
+
+---
+
 ### 🏅 Hackathon Projects
 
-#### [Ultron 8.0 - CodeRaptors](https://github.com/StarkAg/ultron-8.0-coderaptors)
-Hackathon submission by CodeRaptors team for Ultron 8.0 hackathon.
+#### [Found404-Ultron-8.0](https://github.com/StarkAg/Found404-Ultron-8.0) - CodeRaptors Hackathon
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+Hackathon submission by CodeRaptors team for Ultron 8.0 hackathon. Features modern web technologies and deployment configurations.
+
+**Key Features:** Modern web stack, Vercel deployment, responsive design
 
 ---
 
-#### [SIH 2025 - GreenPulseX](https://github.com/StarkAg/sih-2025-greenpulseX)
-Smart India Hackathon 2025 submission - AI-driven yield predictions for farmers.
+#### [PersonaX-DeepVision-2025](https://github.com/StarkAg/PersonaX-DeepVision-2025) - DeepVision Hackathon
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+DeepVision 2025 hackathon submission - E-commerce customer persona development with ML-powered RFM analysis and clustering.
+
+**Key Features:** RFM analysis, K-Means clustering, PCA visualization, interactive dashboard
 
 ---
 
-#### [SIH 2024 - GARV](https://github.com/StarkAg/sih-2024-garv)
+#### [GreenpulseX-SIH-2025](https://github.com/StarkAg/GreenpulseX-SIH-2025) - Smart India Hackathon 2025
+Smart India Hackathon 2025 submission - AI-driven yield predictions for small & marginal farmers.
+
+**Key Features:** Yield prediction, agricultural analytics, full-stack platform
+
+---
+
+#### [Garv1.0-SIH-2024](https://github.com/StarkAg/Garv1.0-SIH-2024) - Smart India Hackathon 2024
 Smart India Hackathon 2024 submission - Modern responsive webpage with clean UI/UX design.
+
+**Key Features:** Modern design, responsive layout, clean UI/UX
 
 ---
 
