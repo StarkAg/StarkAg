@@ -65,6 +65,38 @@ I'm a passionate engineer and full-stack developer with expertise in building mo
 
 ### 🏆 Full-Stack Applications
 
+#### ⭐ [GradeX](https://github.com/StarkAg/GradeX) - SRMIST Academic Management Platform 🚀
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Production-ready academic management platform** for SRMIST students with SRM Academia integration. Features real-time timetable fetching, attendance tracking, calendar sync, seat finder, and grade management.
+
+**🌐 Live Demo:** [https://www.gradex.bond](https://www.gradex.bond)
+
+**Key Features:** 
+- 🔐 SRM Academia authentication with CAPTCHA handling
+- 📅 Real-time timetable with batch detection & slot mapping
+- 📊 Attendance tracking with Supabase sync
+- 🗓️ Academic calendar integration
+- 🎯 Seat finder with multi-campus support (6,177+ student records)
+- 💾 Multi-layer caching (in-memory → Redis → Direct) for <1s response times
+- 🔄 Auto-relogin & session management
+- 📱 Full PWA support (iOS/Android)
+
+**Technical Highlights:**
+- Go (Golang) backend with Fiber framework for SRM scraping
+- React 18 frontend with Vite build system
+- Supabase PostgreSQL with Row Level Security
+- Upstash Redis global caching
+- Cross-platform deployment (VPS + Nginx + systemd)
+- Advanced HTML parsing with goquery
+- Reverse-engineered Zoho authentication flow
+
+---
+
 #### [PrintX](https://github.com/StarkAg/PrintX) - Professional Printing Services Platform
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -237,15 +269,6 @@ Personal portfolio website showcasing projects and skills. Built with HTML, CSS,
 
 ---
 
-#### [GradeX](https://github.com/StarkAg/GradeX) - Grade Management System
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-Grade management system with admin dashboard and student interface for managing academic records.
-
-**Key Features:** Grade management, admin dashboard, student interface
-
----
 
 #### [Hardware-Shop](https://github.com/StarkAg/Hardware-Shop) - E-commerce Platform
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
