@@ -51,11 +51,11 @@ I'm a passionate engineer and full-stack developer with expertise in building mo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarkAg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarkAg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=StarkAg&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StarkAg&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarkAg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarkAg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&cache_seconds=86400)
 
 </div>
 
@@ -329,7 +329,7 @@ Smart India Hackathon 2024 submission - Modern responsive webpage with clean UI/
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StarkAg&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StarkAg&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&cache_seconds=86400)
 
 </div>
 
