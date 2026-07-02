@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-label="Harsh Agarwal — arc reactor banner">
+  <defs>
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#eafcff"/>
+      <stop offset="35%" stop-color="#9be9ff"/>
+      <stop offset="70%" stop-color="#22b8e6"/>
+      <stop offset="100%" stop-color="#0a2a3a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7ee7ff"/>
+      <stop offset="60%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <filter id="blur2"><feGaussianBlur stdDeviation="2"/></filter>
+    <filter id="blur6"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+
+  <!-- background card -->
+  <rect x="1" y="1" width="898" height="238" rx="14" fill="#0d1117" stroke="#1f2a37" stroke-width="1.5"/>
+
+  <!-- faint grid -->
+  <g stroke="#12354a" stroke-width="0.5" opacity="0.35">
+    <path d="M0 60H900M0 120H900M0 180H900"/>
+    <path d="M300 0V240M450 0V240M600 0V240M750 0V240"/>
+  </g>
+
+  <!-- scanline sweep -->
+  <rect x="-80" y="0" width="60" height="240" fill="#7ee7ff" opacity="0.05">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="980 0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ================= ARC REACTOR ================= -->
+  <g transform="translate(130,120)">
+    <!-- ambient glow -->
+    <circle r="86" fill="url(#coreGlow)" opacity="0.35" filter="url(#blur6)">
+      <animate attributeName="opacity" values="0.25;0.5;0.25" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- outer casing -->
+    <circle r="84" fill="none" stroke="#1e3a4f" stroke-width="6"/>
+    <circle r="78" fill="none" stroke="#2d5a75" stroke-width="1.5"/>
+
+    <!-- rotating coil segments (clockwise) -->
+    <g stroke="#57cff2" stroke-width="10" opacity="0.9">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+      <g>
+        <path d="M0-70 A70 70 0 0 1 36.2-59.9" fill="none"/>
+        <path d="M60.6-35 A70 70 0 0 1 68.9 1.2" fill="none"/>
+        <path d="M60.6 35 A70 70 0 0 1 36.2 59.9" fill="none"/>
+        <path d="M0 70 A70 70 0 0 1 -36.2 59.9" fill="none"/>
+        <path d="M-60.6 35 A70 70 0 0 1 -68.9 1.2" fill="none"/>
+        <path d="M-60.6-35 A70 70 0 0 1 -36.2-59.9" fill="none"/>
+      </g>
+    </g>
+
+    <!-- counter-rotating dashed ring -->
+    <circle r="52" fill="none" stroke="#8adfff" stroke-width="3" stroke-dasharray="8 6" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="10s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- inner ring ticks -->
+    <g stroke="#bfefff" stroke-width="2" opacity="0.7">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+      <path d="M0-42V-34M42 0H34M0 42V34M-42 0H-34"/>
+      <path d="M29.7-29.7L24-24M29.7 29.7L24 24M-29.7 29.7L-24 24M-29.7-29.7L-24-24"/>
+    </g>
+
+    <!-- pulsing core -->
+    <circle r="24" fill="url(#coreGlow)" filter="url(#blur2)">
+      <animate attributeName="r" values="22;26;22" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="14" fill="#f4feff">
+      <animate attributeName="opacity" values="1;0.75;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ================= HUD TEXT ================= -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <!-- name -->
+    <text x="270" y="105" font-size="44" font-weight="800" letter-spacing="4" fill="url(#nameGrad)">
+      HARSH AGARWAL
+      <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+    </text>
+
+    <!-- animated underline -->
+    <line x1="272" y1="122" x2="272" y2="122" stroke="#38bdf8" stroke-width="3">
+      <animate attributeName="x2" from="272" to="640" dur="1.4s" begin="0.4s" fill="freeze"/>
+    </line>
+
+    <!-- subtitle -->
+    <text x="272" y="152" font-size="19" fill="#9fb6c9" letter-spacing="1">
+      B.Tech CSE @ SRM IST &#183; Builder of GradeX &#183; IEEE Author
+      <animate attributeName="opacity" values="0;0;1" dur="2s" fill="freeze"/>
+    </text>
+
+    <!-- status row -->
+    <g font-size="14" letter-spacing="2" fill="#5ec8ea">
+      <text x="272" y="188">
+        <animate attributeName="opacity" values="0;0;0;1" dur="2.6s" fill="freeze"/>
+        ARC REACTOR: STABLE
+      </text>
+      <text x="475" y="188">
+        <animate attributeName="opacity" values="0;0;0;1" dur="3s" fill="freeze"/>
+        SYSTEMS: ONLINE
+      </text>
+      <circle cx="650" cy="183" r="4" fill="#4ade80">
+        <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="662" y="188" fill="#4ade80">SHIPPING</text>
+    </g>
+  </g>
+</svg>
