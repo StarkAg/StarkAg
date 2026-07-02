@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Harsh Agarwal 👋
-
-### B.Tech CSE @ SRM IST (2027) · Builder of [GradeX](https://gradex.bond) · IEEE Author
+![Harsh Agarwal — arc reactor](arc-reactor.svg)
 
 [![GradeX](https://img.shields.io/badge/Live_Product-gradex.bond-0b3d91?style=for-the-badge)](https://gradex.bond)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshxagarwal-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshxagarwal)
