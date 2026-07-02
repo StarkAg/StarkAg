@@ -63,20 +63,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-## Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarkAg&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarkAg&layout=compact&theme=default&hide_border=true&cache_seconds=86400)
-
-</div>
-
----
-
-<div align="center">
-
-**Open to Software Engineering & Product roles · Class of 2027**
-
-</div>
