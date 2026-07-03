@@ -61,3 +61,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## Contribution snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/StarkAg/StarkAg/output/github-contribution-grid-snake.svg)
+
+</div>
