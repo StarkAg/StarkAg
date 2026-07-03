@@ -92,21 +92,5 @@
       B.Tech CSE @ SRM IST &#183; Builder of GradeX &#183; IEEE Author
       <animate attributeName="opacity" values="0;0;1" dur="2s" fill="freeze"/>
     </text>
-
-    <!-- status row -->
-    <g font-size="14" letter-spacing="2" fill="#5ec8ea">
-      <text x="272" y="188">
-        <animate attributeName="opacity" values="0;0;0;1" dur="2.6s" fill="freeze"/>
-        ARC REACTOR: STABLE
-      </text>
-      <text x="475" y="188">
-        <animate attributeName="opacity" values="0;0;0;1" dur="3s" fill="freeze"/>
-        SYSTEMS: ONLINE
-      </text>
-      <circle cx="650" cy="183" r="4" fill="#4ade80">
-        <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
-      </circle>
-      <text x="662" y="188" fill="#4ade80">SHIPPING</text>
-    </g>
   </g>
 </svg>
