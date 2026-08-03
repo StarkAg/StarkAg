@@ -19,11 +19,11 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[Found404-Ultron-8.0](https://github.com/StarkAg/Found404-Ultron-8.0)** — Ultron Hackathon submission by CodeRaptors team  <sub>today</sub>
-- **[ArkPdf](https://github.com/StarkAg/ArkPdf)** — ArkPDF — multi-tool PDF transformation platform (Next.js 14): image normalization, modular document-processing pipelines.  <sub>today</sub>
-- **[fortune-square-app](https://github.com/StarkAg/fortune-square-app)** — Monopoly Electronic Banking companion — draw Chance & Community Chest cards  <sub>today</sub>
-- **[CertVault](https://github.com/StarkAg/CertVault)** — Certificate hosting and verification - React, Express, Supabase  <sub>today</sub>
-- **[DSA_VirtualLab](https://github.com/StarkAg/DSA_VirtualLab)** — Interactive DSA Virtual Lab (eLab-style): 5 experiments — Stack, Queue, Linked List, Sorting & Searching — with theory, animated visualizations, an in-browser code editor with real C/C++/Java/Python execution, and quizzes. React + Vite + Tailwind, deployed on Vercel.  <sub>today</sub>
+- **[Found404-Ultron-8.0](https://github.com/StarkAg/Found404-Ultron-8.0)** — Ultron Hackathon submission by CodeRaptors team  <sub>yesterday</sub>
+- **[ArkPdf](https://github.com/StarkAg/ArkPdf)** — ArkPDF — multi-tool PDF transformation platform (Next.js 14): image normalization, modular document-processing pipelines.  <sub>yesterday</sub>
+- **[fortune-square-app](https://github.com/StarkAg/fortune-square-app)** — Monopoly Electronic Banking companion — draw Chance & Community Chest cards  <sub>yesterday</sub>
+- **[CertVault](https://github.com/StarkAg/CertVault)** — Certificate hosting and verification - React, Express, Supabase  <sub>yesterday</sub>
+- **[DSA_VirtualLab](https://github.com/StarkAg/DSA_VirtualLab)** — Interactive DSA Virtual Lab (eLab-style): 5 experiments — Stack, Queue, Linked List, Sorting & Searching — with theory, animated visualizations, an in-browser code editor with real C/C++/Java/Python execution, and quizzes. React + Vite + Tailwind, deployed on Vercel.  <sub>yesterday</sub>
 <!-- recent-activity:end -->
 
 ## What I've shipped
