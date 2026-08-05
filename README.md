@@ -19,11 +19,11 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[GradeX-BITM](https://github.com/StarkAg/GradeX-BITM)** — GradeX BITM - Self-managed Academic Tracker for BIT Mesra, Lalpur Campus. Features: Class Timetable, Attendance Tracker with 75% calculations, Subject Management. Built with React + Supabase.  <sub>today</sub>
-- **[Found404-Ultron-8.0](https://github.com/StarkAg/Found404-Ultron-8.0)** — Ultron Hackathon submission by CodeRaptors team  <sub>2 days ago</sub>
-- **[ArkPdf](https://github.com/StarkAg/ArkPdf)** — ArkPDF — multi-tool PDF transformation platform (Next.js 14): image normalization, modular document-processing pipelines.  <sub>2 days ago</sub>
-- **[fortune-square-app](https://github.com/StarkAg/fortune-square-app)** — Monopoly Electronic Banking companion — draw Chance & Community Chest cards  <sub>2 days ago</sub>
-- **[CertVault](https://github.com/StarkAg/CertVault)** — Certificate hosting and verification - React, Express, Supabase  <sub>2 days ago</sub>
+- **[MP-Foods](https://github.com/StarkAg/MP-Foods)** — Swiggy-style food ordering: menu, filters, cart, payment summary. Next.js 14, TypeScript, Tailwind.  <sub>today</sub>
+- **[GradeX-BITM](https://github.com/StarkAg/GradeX-BITM)** — GradeX BITM - Self-managed Academic Tracker for BIT Mesra, Lalpur Campus. Features: Class Timetable, Attendance Tracker with 75% calculations, Subject Management. Built with React + Supabase.  <sub>yesterday</sub>
+- **[Found404-Ultron-8.0](https://github.com/StarkAg/Found404-Ultron-8.0)** — Ultron Hackathon submission by CodeRaptors team  <sub>3 days ago</sub>
+- **[ArkPdf](https://github.com/StarkAg/ArkPdf)** — ArkPDF — multi-tool PDF transformation platform (Next.js 14): image normalization, modular document-processing pipelines.  <sub>3 days ago</sub>
+- **[fortune-square-app](https://github.com/StarkAg/fortune-square-app)** — Monopoly Electronic Banking companion — draw Chance & Community Chest cards  <sub>3 days ago</sub>
 <!-- recent-activity:end -->
 
 ## What I've shipped
