@@ -19,11 +19,11 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[VentArc](https://github.com/StarkAg/VentArc)** — Event management platform — React, Express, Convex (includes CertVault certificate hosting/verification)  <sub>today</sub>
-- **[Found404-Ultron-8.0](https://github.com/StarkAg/Found404-Ultron-8.0)** — Ultron Hackathon submission by CodeRaptors team  <sub>yesterday</sub>
-- **[Vance](https://github.com/StarkAg/Vance)** — FINIT finance and stock journal web app with budget tracking, Groww order OCR, and Convex sync.  <sub>2 days ago</sub>
-- **[nexora-os](https://github.com/StarkAg/nexora-os)**  <sub>3 days ago</sub>
-- **[MP-Foods](https://github.com/StarkAg/MP-Foods)** — Swiggy-style food ordering: menu, filters, cart, payment summary. Next.js 14, TypeScript, Tailwind.  <sub>4 days ago</sub>
+- **[GradeX](https://github.com/StarkAg/GradeX)** — Student portal for SRM University serving 9,000+ students — timetable, attendance, marks, exam-seat finder. Sub-1s cached responses (Go + Redis). Android app on Google Play. Live: gradex.bond  <sub>today</sub>
+- **[VentArc](https://github.com/StarkAg/VentArc)** — Event management platform — React, Express, Convex (includes CertVault certificate hosting/verification)  <sub>yesterday</sub>
+- **[Found404-Ultron-8.0](https://github.com/StarkAg/Found404-Ultron-8.0)** — Ultron Hackathon submission by CodeRaptors team  <sub>2 days ago</sub>
+- **[Vance](https://github.com/StarkAg/Vance)** — FINIT finance and stock journal web app with budget tracking, Groww order OCR, and Convex sync.  <sub>3 days ago</sub>
+- **[nexora-os](https://github.com/StarkAg/nexora-os)**  <sub>4 days ago</sub>
 <!-- recent-activity:end -->
 
 ## What I've shipped
