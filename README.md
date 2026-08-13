@@ -19,11 +19,11 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[debe-learning-tech-intern-assessment](https://github.com/StarkAg/debe-learning-tech-intern-assessment)** — Debe Learning Full Stack Development Intern assessment submission  <sub>yesterday</sub>
-- **[GradeX](https://github.com/StarkAg/GradeX)** — Student portal for SRM University serving 9,000+ students — timetable, attendance, marks, exam-seat finder. Sub-1s cached responses (Go + Redis). Android app on Google Play. Live: gradex.bond  <sub>2 days ago</sub>
-- **[VentArc](https://github.com/StarkAg/VentArc)** — Event management platform — React, Express, Convex (includes CertVault certificate hosting/verification)  <sub>3 days ago</sub>
-- **[Found404-Ultron-8.0](https://github.com/StarkAg/Found404-Ultron-8.0)** — Ultron Hackathon submission by CodeRaptors team  <sub>4 days ago</sub>
-- **[Vance](https://github.com/StarkAg/Vance)** — FINIT finance and stock journal web app with budget tracking, Groww order OCR, and Convex sync.  <sub>5 days ago</sub>
+- **[rydvue](https://github.com/StarkAg/rydvue)**  <sub>today</sub>
+- **[debe-learning-tech-intern-assessment](https://github.com/StarkAg/debe-learning-tech-intern-assessment)** — Debe Learning Full Stack Development Intern assessment submission  <sub>today</sub>
+- **[GradeX](https://github.com/StarkAg/GradeX)** — Student portal for SRM University serving 9,000+ students — timetable, attendance, marks, exam-seat finder. Sub-1s cached responses (Go + Redis). Android app on Google Play. Live: gradex.bond  <sub>3 days ago</sub>
+- **[VentArc](https://github.com/StarkAg/VentArc)** — Event management platform — React, Express, Convex (includes CertVault certificate hosting/verification)  <sub>4 days ago</sub>
+- **[Found404-Ultron-8.0](https://github.com/StarkAg/Found404-Ultron-8.0)** — Ultron Hackathon submission by CodeRaptors team  <sub>5 days ago</sub>
 <!-- recent-activity:end -->
 
 ## What I've shipped
