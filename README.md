@@ -19,9 +19,9 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[DSA_VirtualLab](https://github.com/StarkAg/DSA_VirtualLab)** — Interactive DSA Virtual Lab (eLab-style): 5 experiments — Stack, Queue, Linked List, Sorting & Searching — with theory, animated visualizations, an in-browser code editor with real C/C++/Java/Python execution, and quizzes. React + Vite + Tailwind, deployed on Vercel.  <sub>today</sub>
-- **[rydvue](https://github.com/StarkAg/rydvue)**  <sub>6 days ago</sub>
-- **[debe-learning-tech-intern-assessment](https://github.com/StarkAg/debe-learning-tech-intern-assessment)** — Debe Learning Full Stack Development Intern assessment submission  <sub>6 days ago</sub>
+- **[DSA_VirtualLab](https://github.com/StarkAg/DSA_VirtualLab)** — Interactive DSA Virtual Lab (eLab-style): 5 experiments — Stack, Queue, Linked List, Sorting & Searching — with theory, animated visualizations, an in-browser code editor with real C/C++/Java/Python execution, and quizzes. React + Vite + Tailwind, deployed on Vercel.  <sub>yesterday</sub>
+- **[rydvue](https://github.com/StarkAg/rydvue)**  <sub>1 week ago</sub>
+- **[debe-learning-tech-intern-assessment](https://github.com/StarkAg/debe-learning-tech-intern-assessment)** — Debe Learning Full Stack Development Intern assessment submission  <sub>1 week ago</sub>
 - **[GradeX](https://github.com/StarkAg/GradeX)** — Student portal for SRM University serving 9,000+ students — timetable, attendance, marks, exam-seat finder. Sub-1s cached responses (Go + Redis). Android app on Google Play. Live: gradex.bond  <sub>1 week ago</sub>
 - **[VentArc](https://github.com/StarkAg/VentArc)** — Event management platform — React, Express, Convex (includes CertVault certificate hosting/verification)  <sub>1 week ago</sub>
 <!-- recent-activity:end -->
