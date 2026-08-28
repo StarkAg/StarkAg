@@ -19,7 +19,7 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[ZepNest](https://github.com/StarkAg/ZepNest)**  <sub>2 days ago</sub>
+- **[ZepNest](https://github.com/StarkAg/ZepNest)**  <sub>3 days ago</sub>
 - **[DSA_VirtualLab](https://github.com/StarkAg/DSA_VirtualLab)** — Interactive DSA Virtual Lab (eLab-style): 5 experiments — Stack, Queue, Linked List, Sorting & Searching — with theory, animated visualizations, an in-browser code editor with real C/C++/Java/Python execution, and quizzes. React + Vite + Tailwind, deployed on Vercel.  <sub>1 week ago</sub>
 - **[rydvue](https://github.com/StarkAg/rydvue)**  <sub>2 weeks ago</sub>
 - **[debe-learning-tech-intern-assessment](https://github.com/StarkAg/debe-learning-tech-intern-assessment)** — Debe Learning Full Stack Development Intern assessment submission  <sub>2 weeks ago</sub>
