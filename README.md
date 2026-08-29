@@ -19,11 +19,11 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[ZepNest](https://github.com/StarkAg/ZepNest)**  <sub>3 days ago</sub>
+- **[expenza](https://github.com/StarkAg/expenza)** — 📱 iPhone-like expense tracker with accounts, fixed expenses & transactions. Built with Next.js 14, TypeScript & Supabase.  <sub>today</sub>
+- **[ZepNest](https://github.com/StarkAg/ZepNest)**  <sub>4 days ago</sub>
 - **[DSA_VirtualLab](https://github.com/StarkAg/DSA_VirtualLab)** — Interactive DSA Virtual Lab (eLab-style): 5 experiments — Stack, Queue, Linked List, Sorting & Searching — with theory, animated visualizations, an in-browser code editor with real C/C++/Java/Python execution, and quizzes. React + Vite + Tailwind, deployed on Vercel.  <sub>1 week ago</sub>
 - **[rydvue](https://github.com/StarkAg/rydvue)**  <sub>2 weeks ago</sub>
 - **[debe-learning-tech-intern-assessment](https://github.com/StarkAg/debe-learning-tech-intern-assessment)** — Debe Learning Full Stack Development Intern assessment submission  <sub>2 weeks ago</sub>
-- **[GradeX](https://github.com/StarkAg/GradeX)** — Student portal for SRM University serving 9,000+ students — timetable, attendance, marks, exam-seat finder. Sub-1s cached responses (Go + Redis). Android app on Google Play. Live: gradex.bond  <sub>2 weeks ago</sub>
 <!-- recent-activity:end -->
 
 ## What I've shipped
