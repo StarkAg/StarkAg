@@ -19,10 +19,10 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[Vance](https://github.com/StarkAg/Vance)** — FINIT finance and stock journal web app with budget tracking, Groww order OCR, and Convex sync.  <sub>2 days ago</sub>
+- **[Vance](https://github.com/StarkAg/Vance)** — FINIT finance and stock journal web app with budget tracking, Groww order OCR, and Convex sync.  <sub>3 days ago</sub>
 - **[expenza](https://github.com/StarkAg/expenza)** — 📱 iPhone-like expense tracker with accounts, fixed expenses & transactions. Built with Next.js 14, TypeScript & Supabase.  <sub>2 weeks ago</sub>
-- **[ZepNest](https://github.com/StarkAg/ZepNest)**  <sub>2 weeks ago</sub>
-- **[DSA_VirtualLab](https://github.com/StarkAg/DSA_VirtualLab)** — Interactive DSA Virtual Lab (eLab-style): 5 experiments — Stack, Queue, Linked List, Sorting & Searching — with theory, animated visualizations, an in-browser code editor with real C/C++/Java/Python execution, and quizzes. React + Vite + Tailwind, deployed on Vercel.  <sub>3 weeks ago</sub>
+- **[ZepNest](https://github.com/StarkAg/ZepNest)**  <sub>3 weeks ago</sub>
+- **[DSA_VirtualLab](https://github.com/StarkAg/DSA_VirtualLab)** — Interactive DSA Virtual Lab (eLab-style): 5 experiments — Stack, Queue, Linked List, Sorting & Searching — with theory, animated visualizations, an in-browser code editor with real C/C++/Java/Python execution, and quizzes. React + Vite + Tailwind, deployed on Vercel.  <sub>4 weeks ago</sub>
 - **[rydvue](https://github.com/StarkAg/rydvue)**  <sub>Aug 2026</sub>
 <!-- recent-activity:end -->
 
