@@ -19,9 +19,9 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[retype](https://github.com/StarkAg/retype)** — Change text in scanned documents & photos using the document's own letters — typewriter, printed fonts, handwriting. Python + OpenCV, no GPU.  <sub>today</sub>
+- **[retype](https://github.com/StarkAg/retype)** — Change text in scanned documents & photos using the document's own letters — typewriter, printed fonts, handwriting. Python + OpenCV, no GPU.  <sub>yesterday</sub>
 - **[Vance](https://github.com/StarkAg/Vance)** — FINIT finance and stock journal web app with budget tracking, Groww order OCR, and Convex sync.  <sub>2 weeks ago</sub>
-- **[expenza](https://github.com/StarkAg/expenza)** — 📱 iPhone-like expense tracker with accounts, fixed expenses & transactions. Built with Next.js 14, TypeScript & Supabase.  <sub>3 weeks ago</sub>
+- **[expenza](https://github.com/StarkAg/expenza)** — 📱 iPhone-like expense tracker with accounts, fixed expenses & transactions. Built with Next.js 14, TypeScript & Supabase.  <sub>4 weeks ago</sub>
 - **[ZepNest](https://github.com/StarkAg/ZepNest)**  <sub>Aug 2026</sub>
 - **[DSA_VirtualLab](https://github.com/StarkAg/DSA_VirtualLab)** — Interactive DSA Virtual Lab (eLab-style): 5 experiments — Stack, Queue, Linked List, Sorting & Searching — with theory, animated visualizations, an in-browser code editor with real C/C++/Java/Python execution, and quizzes. React + Vite + Tailwind, deployed on Vercel.  <sub>Aug 2026</sub>
 <!-- recent-activity:end -->
