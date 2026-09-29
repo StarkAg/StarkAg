@@ -19,10 +19,10 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>today</sub>
-- **[retype](https://github.com/StarkAg/retype)** — Change text in scanned documents & photos using the document's own letters — typewriter, printed fonts, handwriting. Python + OpenCV, no GPU.  <sub>2 days ago</sub>
+- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>yesterday</sub>
+- **[retype](https://github.com/StarkAg/retype)** — Change text in scanned documents & photos using the document's own letters — typewriter, printed fonts, handwriting. Python + OpenCV, no GPU.  <sub>3 days ago</sub>
 - **[Vance](https://github.com/StarkAg/Vance)** — FINIT finance and stock journal web app with budget tracking, Groww order OCR, and Convex sync.  <sub>2 weeks ago</sub>
-- **[expenza](https://github.com/StarkAg/expenza)** — 📱 iPhone-like expense tracker with accounts, fixed expenses & transactions. Built with Next.js 14, TypeScript & Supabase.  <sub>4 weeks ago</sub>
+- **[expenza](https://github.com/StarkAg/expenza)** — 📱 iPhone-like expense tracker with accounts, fixed expenses & transactions. Built with Next.js 14, TypeScript & Supabase.  <sub>Aug 2026</sub>
 - **[ZepNest](https://github.com/StarkAg/ZepNest)**  <sub>Aug 2026</sub>
 <!-- recent-activity:end -->
 
