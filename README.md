@@ -19,11 +19,11 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[shivhardware](https://github.com/StarkAg/shivhardware)** — Shiv Hardware Store - E-commerce site with aluminium door and window pricing calculators  <sub>today</sub>
-- **[guardian](https://github.com/StarkAg/guardian)** — The Android anti-theft app a thief can't disable — re-enables GPS/data remotely and follows the SIM, all over SMS. No cloud, no account.  <sub>today</sub>
-- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>5 days ago</sub>
+- **[zepnest-customer-app-design](https://github.com/StarkAg/zepnest-customer-app-design)** — Zepnest customer app design reference: every icon, brand mark, illustration, colour and type token  <sub>today</sub>
+- **[shivhardware](https://github.com/StarkAg/shivhardware)** — Shiv Hardware Store - E-commerce site with aluminium door and window pricing calculators  <sub>yesterday</sub>
+- **[guardian](https://github.com/StarkAg/guardian)** — The Android anti-theft app a thief can't disable — re-enables GPS/data remotely and follows the SIM, all over SMS. No cloud, no account.  <sub>yesterday</sub>
+- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>6 days ago</sub>
 - **[retype](https://github.com/StarkAg/retype)** — Change text in scanned documents & photos using the document's own letters — typewriter, printed fonts, handwriting. Python + OpenCV, no GPU.  <sub>1 week ago</sub>
-- **[Vance](https://github.com/StarkAg/Vance)** — FINIT finance and stock journal web app with budget tracking, Groww order OCR, and Convex sync.  <sub>3 weeks ago</sub>
 <!-- recent-activity:end -->
 
 ## What I've shipped
