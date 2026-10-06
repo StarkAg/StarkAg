@@ -19,11 +19,11 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[unfill](https://github.com/StarkAg/unfill)** — Turn a filled-in form back into a blank one — erases handwriting from a scan, keeps the printed form intact.  <sub>today</sub>
 - **[shivhardware](https://github.com/StarkAg/shivhardware)** — Shiv Hardware Store - E-commerce site with aluminium door and window pricing calculators  <sub>today</sub>
-- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>today</sub>
-- **[zepnest-customer-app-design](https://github.com/StarkAg/zepnest-customer-app-design)** — Zepnest customer app design reference: every icon, brand mark, illustration, colour and type token  <sub>yesterday</sub>
-- **[guardian](https://github.com/StarkAg/guardian)** — The Android anti-theft app a thief can't disable — re-enables GPS/data remotely and follows the SIM, all over SMS. No cloud, no account.  <sub>2 days ago</sub>
+- **[unfill](https://github.com/StarkAg/unfill)** — Turn a filled-in form back into a blank one — erases handwriting from a scan, keeps the printed form intact.  <sub>yesterday</sub>
+- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>yesterday</sub>
+- **[zepnest-customer-app-design](https://github.com/StarkAg/zepnest-customer-app-design)** — Zepnest customer app design reference: every icon, brand mark, illustration, colour and type token  <sub>2 days ago</sub>
+- **[guardian](https://github.com/StarkAg/guardian)** — The Android anti-theft app a thief can't disable — re-enables GPS/data remotely and follows the SIM, all over SMS. No cloud, no account.  <sub>3 days ago</sub>
 <!-- recent-activity:end -->
 
 ## What I've shipped
