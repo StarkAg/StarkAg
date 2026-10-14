@@ -19,11 +19,11 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[GradeX-BITM](https://github.com/StarkAg/GradeX-BITM)** — GradeX BITM - Self-managed Academic Tracker for BIT Mesra, Lalpur Campus. Features: Class Timetable, Attendance Tracker with 75% calculations, Subject Management. Built with React + Supabase.  <sub>yesterday</sub>
-- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>2 days ago</sub>
-- **[shivhardware](https://github.com/StarkAg/shivhardware)** — Shiv Hardware Store - E-commerce site with aluminium door and window pricing calculators  <sub>1 week ago</sub>
-- **[unfill](https://github.com/StarkAg/unfill)** — Turn a filled-in form back into a blank one — erases handwriting from a scan, keeps the printed form intact.  <sub>1 week ago</sub>
-- **[zepnest-customer-app-design](https://github.com/StarkAg/zepnest-customer-app-design)** — Zepnest customer app design reference: every icon, brand mark, illustration, colour and type token  <sub>1 week ago</sub>
+- **[jbvnl-bill-fetcher](https://github.com/StarkAg/jbvnl-bill-fetcher)** — Auto-fetch JBVNL electricity bills and file them by property/month  <sub>today</sub>
+- **[ZepNest](https://github.com/StarkAg/ZepNest)**  <sub>today</sub>
+- **[VentArc](https://github.com/StarkAg/VentArc)** — Event management platform — React, Express, Convex (includes CertVault certificate hosting/verification)  <sub>today</sub>
+- **[Vance](https://github.com/StarkAg/Vance)** — FINIT finance and stock journal web app with budget tracking, Groww order OCR, and Convex sync.  <sub>today</sub>
+- **[Ribil](https://github.com/StarkAg/Ribil)** — Karnataka Land Records & Village Maps - Next.js web app for fetching geographic documents with automated VPS deployment. Features cascading location dropdowns (24k+ villages), PDF extraction via Puppeteer, and one-command deployment to VPS.  <sub>today</sub>
 <!-- recent-activity:end -->
 
 ## What I've shipped
