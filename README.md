@@ -19,11 +19,11 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[GradeX-BITM](https://github.com/StarkAg/GradeX-BITM)** — GradeX BITM - Self-managed Academic Tracker for BIT Mesra, Lalpur Campus. Features: Class Timetable, Attendance Tracker with 75% calculations, Subject Management. Built with React + Supabase.  <sub>yesterday</sub>
-- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>3 days ago</sub>
-- **[jbvnl-bill-fetcher](https://github.com/StarkAg/jbvnl-bill-fetcher)** — Auto-fetch JBVNL electricity bills and file them by property/month  <sub>5 days ago</sub>
-- **[ZepNest](https://github.com/StarkAg/ZepNest)**  <sub>5 days ago</sub>
-- **[VentArc](https://github.com/StarkAg/VentArc)** — Event management platform — React, Express, Convex (includes CertVault certificate hosting/verification)  <sub>5 days ago</sub>
+- **[GradeX-BITM](https://github.com/StarkAg/GradeX-BITM)** — GradeX BITM - Self-managed Academic Tracker for BIT Mesra, Lalpur Campus. Features: Class Timetable, Attendance Tracker with 75% calculations, Subject Management. Built with React + Supabase.  <sub>2 days ago</sub>
+- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>4 days ago</sub>
+- **[jbvnl-bill-fetcher](https://github.com/StarkAg/jbvnl-bill-fetcher)** — Auto-fetch JBVNL electricity bills and file them by property/month  <sub>6 days ago</sub>
+- **[ZepNest](https://github.com/StarkAg/ZepNest)**  <sub>6 days ago</sub>
+- **[VentArc](https://github.com/StarkAg/VentArc)** — Event management platform — React, Express, Convex (includes CertVault certificate hosting/verification)  <sub>6 days ago</sub>
 <!-- recent-activity:end -->
 
 ## What I've shipped
