@@ -20,8 +20,8 @@
 
 <!-- recent-activity:start -->
 - **[confera](https://github.com/StarkAg/confera)** — Confera is a student-first IEEE India conference explorer with Convex-backed usage analytics.  <sub>today</sub>
-- **[shivhardware](https://github.com/StarkAg/shivhardware)** — Shiv Hardware Store - E-commerce site with aluminium door and window pricing calculators  <sub>2 days ago</sub>
-- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>2 days ago</sub>
+- **[shivhardware](https://github.com/StarkAg/shivhardware)** — Shiv Hardware Store - E-commerce site with aluminium door and window pricing calculators  <sub>3 days ago</sub>
+- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>3 days ago</sub>
 - **[GradeX-BITM](https://github.com/StarkAg/GradeX-BITM)** — GradeX BITM - Self-managed Academic Tracker for BIT Mesra, Lalpur Campus. Features: Class Timetable, Attendance Tracker with 75% calculations, Subject Management. Built with React + Supabase.  <sub>1 week ago</sub>
 - **[jbvnl-bill-fetcher](https://github.com/StarkAg/jbvnl-bill-fetcher)** — Auto-fetch JBVNL electricity bills and file them by property/month  <sub>2 weeks ago</sub>
 <!-- recent-activity:end -->
