@@ -20,10 +20,10 @@
 
 <!-- recent-activity:start -->
 - **[confera](https://github.com/StarkAg/confera)** — Confera is a student-first IEEE India conference explorer with Convex-backed usage analytics.  <sub>today</sub>
-- **[GradeX-BITM](https://github.com/StarkAg/GradeX-BITM)** — GradeX BITM - Self-managed Academic Tracker for BIT Mesra, Lalpur Campus. Features: Class Timetable, Attendance Tracker with 75% calculations, Subject Management. Built with React + Supabase.  <sub>1 week ago</sub>
-- **[Vance](https://github.com/StarkAg/Vance)** — FINIT finance and stock journal web app with budget tracking, Groww order OCR, and Convex sync.  <sub>1 week ago</sub>
-- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>1 week ago</sub>
-- **[shivhardware](https://github.com/StarkAg/shivhardware)** — Shiv Hardware Store - E-commerce site with aluminium door and window pricing calculators  <sub>2 weeks ago</sub>
+- **[gradex-eregular](https://github.com/StarkAg/gradex-eregular)** — Laptop tool for SRM e-Curricula (e-regular) submission via GradeX  <sub>today</sub>
+- **[GradeX-BITM](https://github.com/StarkAg/GradeX-BITM)** — GradeX BITM - Self-managed Academic Tracker for BIT Mesra, Lalpur Campus. Features: Class Timetable, Attendance Tracker with 75% calculations, Subject Management. Built with React + Supabase.  <sub>2 weeks ago</sub>
+- **[Vance](https://github.com/StarkAg/Vance)** — FINIT finance and stock journal web app with budget tracking, Groww order OCR, and Convex sync.  <sub>2 weeks ago</sub>
+- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>2 weeks ago</sub>
 <!-- recent-activity:end -->
 
 ## What I've shipped
