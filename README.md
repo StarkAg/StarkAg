@@ -19,11 +19,11 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[shiv-counter-releases](https://github.com/StarkAg/shiv-counter-releases)** — Shiv Counter Android app: each release is one APK. The app updates itself from here.  <sub>today</sub>
 - **[confera](https://github.com/StarkAg/confera)** — Confera is a student-first IEEE India conference explorer with Convex-backed usage analytics.  <sub>today</sub>
-- **[gradex-eregular](https://github.com/StarkAg/gradex-eregular)** — Laptop tool for SRM e-Curricula (e-regular) submission via GradeX  <sub>3 days ago</sub>
+- **[shiv-order-releases](https://github.com/StarkAg/shiv-order-releases)** — Shiv Order Android app: each release is one APK. The app updates itself from here.  <sub>today</sub>
+- **[shiv-counter-releases](https://github.com/StarkAg/shiv-counter-releases)** — Shiv Counter Android app: each release is one APK. The app updates itself from here.  <sub>yesterday</sub>
+- **[gradex-eregular](https://github.com/StarkAg/gradex-eregular)** — Laptop tool for SRM e-Curricula (e-regular) submission via GradeX  <sub>4 days ago</sub>
 - **[GradeX-BITM](https://github.com/StarkAg/GradeX-BITM)** — GradeX BITM - Self-managed Academic Tracker for BIT Mesra, Lalpur Campus. Features: Class Timetable, Attendance Tracker with 75% calculations, Subject Management. Built with React + Supabase.  <sub>2 weeks ago</sub>
-- **[Vance](https://github.com/StarkAg/Vance)** — FINIT finance and stock journal web app with budget tracking, Groww order OCR, and Convex sync.  <sub>2 weeks ago</sub>
 <!-- recent-activity:end -->
 
 ## What I've shipped
