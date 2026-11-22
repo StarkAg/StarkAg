@@ -20,9 +20,9 @@
 
 <!-- recent-activity:start -->
 - **[confera](https://github.com/StarkAg/confera)** — Confera is a student-first IEEE India conference explorer with Convex-backed usage analytics.  <sub>today</sub>
-- **[shiv-order-releases](https://github.com/StarkAg/shiv-order-releases)** — Shiv Order Android app: each release is one APK. The app updates itself from here.  <sub>yesterday</sub>
-- **[shiv-counter-releases](https://github.com/StarkAg/shiv-counter-releases)** — Shiv Counter Android app: each release is one APK. The app updates itself from here.  <sub>2 days ago</sub>
-- **[gradex-eregular](https://github.com/StarkAg/gradex-eregular)** — Laptop tool for SRM e-Curricula (e-regular) submission via GradeX  <sub>5 days ago</sub>
+- **[shiv-order-releases](https://github.com/StarkAg/shiv-order-releases)** — Shiv Order Android app: each release is one APK. The app updates itself from here.  <sub>2 days ago</sub>
+- **[shiv-counter-releases](https://github.com/StarkAg/shiv-counter-releases)** — Shiv Counter Android app: each release is one APK. The app updates itself from here.  <sub>3 days ago</sub>
+- **[gradex-eregular](https://github.com/StarkAg/gradex-eregular)** — Laptop tool for SRM e-Curricula (e-regular) submission via GradeX  <sub>6 days ago</sub>
 - **[GradeX-BITM](https://github.com/StarkAg/GradeX-BITM)** — GradeX BITM - Self-managed Academic Tracker for BIT Mesra, Lalpur Campus. Features: Class Timetable, Attendance Tracker with 75% calculations, Subject Management. Built with React + Supabase.  <sub>2 weeks ago</sub>
 <!-- recent-activity:end -->
 
