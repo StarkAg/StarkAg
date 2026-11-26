@@ -19,11 +19,11 @@
 ## Recent activity
 
 <!-- recent-activity:start -->
-- **[confera](https://github.com/StarkAg/confera)** — Confera is a student-first IEEE India conference explorer with Convex-backed usage analytics.  <sub>today</sub>
 - **[shiv-hardware-erp](https://github.com/StarkAg/shiv-hardware-erp)** — Books, billing and shop-floor software for Shiv Hardware Store, Ramgarh Cantt — Tally-style double-entry vouchers, bill builder, party accounts, cash drawer, stock and attendance on one Convex database.  <sub>today</sub>
-- **[shiv-order-releases](https://github.com/StarkAg/shiv-order-releases)** — Shiv Order Android app: each release is one APK. The app updates itself from here.  <sub>5 days ago</sub>
-- **[shiv-counter-releases](https://github.com/StarkAg/shiv-counter-releases)** — Shiv Counter Android app: each release is one APK. The app updates itself from here.  <sub>6 days ago</sub>
-- **[gradex-eregular](https://github.com/StarkAg/gradex-eregular)** — Laptop tool for SRM e-Curricula (e-regular) submission via GradeX  <sub>1 week ago</sub>
+- **[confera](https://github.com/StarkAg/confera)** — Confera is a student-first IEEE India conference explorer with Convex-backed usage analytics.  <sub>today</sub>
+- **[shiv-panel-releases](https://github.com/StarkAg/shiv-panel-releases)** — Public installer releases for Shiv Hardware Panel (auto-update feed). Source is private.  <sub>today</sub>
+- **[shiv-order-releases](https://github.com/StarkAg/shiv-order-releases)** — Shiv Order Android app: each release is one APK. The app updates itself from here.  <sub>6 days ago</sub>
+- **[shiv-counter-releases](https://github.com/StarkAg/shiv-counter-releases)** — Shiv Counter Android app: each release is one APK. The app updates itself from here.  <sub>1 week ago</sub>
 <!-- recent-activity:end -->
 
 ## What I've shipped
